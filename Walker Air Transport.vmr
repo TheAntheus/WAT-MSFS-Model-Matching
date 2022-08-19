@@ -107,6 +107,8 @@
 
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="DC3" ModelName="Beechcraft King Air 350i WAT" />
 
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="DC6" ModelName="PMDG DC-6A WAT//PMDG DC-6A WAT Vintage//PMDG DC-6B WAT//PMDG DC-6B WAT Vintage" />
+
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="EA50" ModelName="Cessna CJ4 Citation Asobo WAT" />
 
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="E170" ModelName="Airbus A320 Neo FlyByWire WAT" />
