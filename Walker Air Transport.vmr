@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMatchRuleSet>
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="A306" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="A319" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="A320" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="A321" ModelName="Airbus A321 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="A321" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="A332" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="A333" ModelName="Airbus A330-300 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="A333" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="A359" ModelName="Airbus A320 Neo FlyByWire WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B463" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="RJ1H" ModelName="Airbus A320 Neo FlyByWire WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B190" ModelName="Beechcraft King Air 350i WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="BE58" ModelName="Asobo Baron G58 WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="BE33" ModelName="Bonanza G36 Asobo WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="BE36" ModelName="Bonanza G36 Asobo WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="BE35" ModelName="Bonanza G36 Asobo WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="BE76" ModelName="Asobo Baron G58 WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="BE99" ModelName="Beechcraft 99 Airliner WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="H25B" ModelName="Cessna CJ4 Citation Asobo WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="BE20" ModelName="Beechcraft King Air 350i WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B350" ModelName="Beechcraft King Air 350i WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="BE9L" ModelName="Beechcraft King Air 350i WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="PRM1" ModelName="Cessna CJ4 Citation Asobo WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B712" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B721" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B722" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B732" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B733" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B736" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B737" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B738" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B739" ModelName="Airbus A320 Neo FlyByWire WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B744" ModelName="Boeing 747-8i WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B748" ModelName="Boeing 747-8i WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B752" ModelName="Boeing 787-10 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B753" ModelName="Boeing 787-10 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B762" ModelName="Boeing 787-10 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B763" ModelName="Boeing 787-10 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B772" ModelName="Boeing 787-10 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B77L" ModelName="Boeing 787-10 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B77W" ModelName="Boeing 787-10 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B77F" ModelName="Boeing 787-10 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B78X" ModelName="Boeing 787-10 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B788" ModelName="Boeing 787-10 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B789" ModelName="Boeing 787-10 WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="CL30" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="CRJ2" ModelName="Airbus A320 Neo FlyByWire WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="CRJ7" ModelName="CRJ700ER WATCRJ700ER WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="DH8D" ModelName="Airbus A320 Neo FlyByWire WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="LJ35" ModelName="Cessna CJ4 Citation Asobo WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="BN2P" ModelName="Beechcraft King Air 350i WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C172" ModelName="Cessna Skyhawk WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C182" ModelName="Carenado CT182T Skylane WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C182" ModelName="Cessna Skyhawk WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C206" ModelName="Cessna Skyhawk WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C210" ModelName="Cessna Skyhawk WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C310" ModelName="Asobo Baron G58 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C340" ModelName="Asobo Baron G58 WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C550" ModelName="Cessna CJ4 Citation Asobo WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C56X" ModelName="Cessna CJ4 Citation Asobo WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C25C" ModelName="Cessna CJ4 Citation Asobo WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C700" ModelName="Cessna Longitude WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C510" ModelName="Cessna CJ4 Citation Asobo WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C750" ModelName="Cessna Longitude WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="SF50" ModelName="Cessna CJ4 Citation Asobo WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="SR20" ModelName="SR22 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="SR22" ModelName="SR22 WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="FA50" ModelName="Cessna Longitude WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="DH3T" ModelName="Beechcraft King Air 350i WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="DH36" ModelName="Beechcraft King Air 350i WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="DA40" ModelName="DA40-NG Asobo WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="DA62" ModelName="DA62 Asobo WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="DC3" ModelName="Beechcraft King Air 350i WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="EA50" ModelName="Cessna CJ4 Citation Asobo WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="E170" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="E175" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="E195" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="E135" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="E145" ModelName="Airbus A320 Neo FlyByWire WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="E35L" ModelName="Cessna CJ4 Citation Asobo WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="E55P" ModelName="Cessna CJ4 Citation Asobo WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="EPIC" ModelName="TBM 930 Asobo WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="F50" ModelName="Airbus A320 Neo FlyByWire WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="AA5" ModelName="DR400 Asobo WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="L410" ModelName="Airbus A320 Neo FlyByWire WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="CONI" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="L18" ModelName="Airbus A320 Neo FlyByWire WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="MD82" ModelName="Airbus A320 Neo FlyByWire WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="MD88" ModelName="Airbus A320 Neo FlyByWire WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="M20P" ModelName="Carenado M20R Ovation WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="M20P" ModelName="DA40-NG Asobo WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="M20T" ModelName="DA40-NG Asobo WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="P180" ModelName="Beechcraft King Air 350i WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="DR40" ModelName="DR400 Asobo WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="TBM9" ModelName="TBM 930 Asobo WAT" />
+
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="P28R" ModelName="Just Flight PA28 Arrow III WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="P28R" ModelName="Bonanza G36 Asobo WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="PA34" ModelName="Carenado PA34T Seneca V WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="PA44" ModelName="Carenado PA44 Seminole WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="E110" ModelName="NextGen EMB-110P WAT" />
+
+</ModelMatchRuleSet>
