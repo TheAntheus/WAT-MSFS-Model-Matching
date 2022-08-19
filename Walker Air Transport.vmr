@@ -53,6 +53,11 @@
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="B721" ModelName="Airbus A320 Neo FlyByWire WAT" />
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="B722" ModelName="Airbus A320 Neo FlyByWire WAT" />
 
+<!-- Wings42 Boeing 247 (Using Type Code B247)-->
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B247" ModelName="Boeing 247D WAT" />
+<!-- Fallback -->
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B247" ModelName="Asobo Baron G58 WAT" />
+
 <!-- PMDG 737 for all 737's -->
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="B732" ModelName="PMDG 737-600 WAT" />
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="B733" ModelName="PMDG 737-700 WAT-BW//PMDG 737-700 WAT-SSW//PMDG 737-700BBJ WAT-BW White Executive//PMDG 737-700BBJ WAT-SSW//PMDG 737-700 BDSF WAT" />
