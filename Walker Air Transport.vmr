@@ -65,7 +65,7 @@
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="CL30" ModelName="Airbus A320 Neo FlyByWire WAT" />
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="CRJ2" ModelName="Airbus A320 Neo FlyByWire WAT" />
 
-<ModelMatchRule CallsignPrefix="WAT" TypeCode="CRJ7" ModelName="CRJ700ER WATCRJ700ER WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="CRJ7" ModelName="CRJ700ER WAT" />
 
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="DH8D" ModelName="Airbus A320 Neo FlyByWire WAT" />
 
