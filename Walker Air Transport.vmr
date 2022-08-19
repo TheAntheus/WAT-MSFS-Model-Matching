@@ -163,6 +163,11 @@
 
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="AA5" ModelName="DR400 Asobo WAT" />
 
+<!-- SWS Kodiak -->
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="KODI" ModelName="Kodiak 100 WAT-GEAR+SUMMIT" />
+<!-- Fallback -->
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="KODI" ModelName="Cessna 208B Grand Caravan EX WAT" />
+
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="L410" ModelName="Airbus A320 Neo FlyByWire WAT" />
 
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="CONI" ModelName="Airbus A320 Neo FlyByWire WAT" />
