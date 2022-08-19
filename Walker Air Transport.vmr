@@ -83,7 +83,7 @@
 
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="C210" ModelName="Cessna Skyhawk WAT" />
 
-<ModelMatchRule CallsignPrefix="WAT" TypeCode="C310" ModelName="Asobo Baron G58 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="C310" ModelName="Milviz 310R WAT" />
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="C340" ModelName="Asobo Baron G58 WAT" />
 
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="C550" ModelName="Cessna CJ4 Citation Asobo WAT" />
