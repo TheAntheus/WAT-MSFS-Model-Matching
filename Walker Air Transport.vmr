@@ -19,6 +19,7 @@
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="BE58" ModelName="Asobo Baron G58 WAT" />
 
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="BE17" ModelName="Beechcraft Model 17 WAT//Beechcraft Model 17 WAT Vintage" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="BE18" ModelName="Beechcraft Model 18 WAT" />
 
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="BE33" ModelName="Bonanza G36 Asobo WAT" />
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="BE36" ModelName="Bonanza G36 Asobo WAT" />
