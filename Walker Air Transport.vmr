@@ -131,6 +131,10 @@
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="CONI" ModelName="Airbus A320 Neo FlyByWire WAT" />
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="L18" ModelName="Airbus A320 Neo FlyByWire WAT" />
 
+<!-- Leonardo FlyTheMaddogX MD-82 -->
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="MD82" ModelName="Fly The Maddog X MD-82 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="MD88" ModelName="Fly The Maddog X MD-82 WAT" />
+<!-- Fallback for MD-82 and MD-83 -->
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="MD82" ModelName="Airbus A320 Neo FlyByWire WAT" />
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="MD88" ModelName="Airbus A320 Neo FlyByWire WAT" />
 
