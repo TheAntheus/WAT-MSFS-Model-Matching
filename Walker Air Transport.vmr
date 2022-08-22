@@ -168,6 +168,24 @@
 
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="AA5" ModelName="DR400 Asobo WAT" />
 
+<!-- HPG Payware H145 -->
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="EC45" ModelName="Airbus H145 WAT LUX//Airbus H145 WAT CIV" />
+<!-- Fallback for H145 using freeware H135 and R44 -->
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="EC45" ModelName="Airbus H135 WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="EC45" ModelName="Robinson R44 WAT" />
+
+<!-- HPG Freeware H135 -->
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="EC35" ModelName="Airbus H135 WAT" />
+<!-- Fallback for H135 using Paywayre H145 and Freeware R44 -->
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="EC35" ModelName="Airbus H145 WAT LUX//Airbus H145 WAT CIV" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="EC35" ModelName="Robinson R44 WAT" />
+
+<!-- Rotorsim Freeware R44-->
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="R44" ModelName="Robinson R44 WAT" />
+<!-- Fallback for R44 using Payware H145 and Freeware H135 -->
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="R44" ModelName="Airbus H145 WAT LUX//Airbus H145 WAT CIV" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="R44" ModelName="Airbus H135 WAT" />
+
 <!-- SWS Kodiak -->
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="KODI" ModelName="Kodiak 100 WAT-GEAR+SUMMIT" />
 <!-- Fallback -->
