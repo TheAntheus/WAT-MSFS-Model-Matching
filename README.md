@@ -24,6 +24,7 @@ Based on the model matching rules created by WAT392
 * Carenado M20R Ovation
 * VirtualCol Beechcraft 99
 * HPG Airbus H145
+* Blackbox BN2P Islander
 
 ## Supported Freeware
 * FlyByWire A320 Neo
