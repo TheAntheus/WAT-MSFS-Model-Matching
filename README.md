@@ -23,10 +23,13 @@ Based on the model matching rules created by WAT392
 * Carenado PA44 Seminole
 * Carenado M20R Ovation
 * VirtualCol Beechcraft 99
+* HPG Airbus H145
 
 ## Supported Freeware
 * FlyByWire A320 Neo
 * Working Title CJ4 Citation
+* HPG Airbus H135
+* Rotorsim Robinson R44
 
 ## Supported Defualt Aircraft
 ### Standard
