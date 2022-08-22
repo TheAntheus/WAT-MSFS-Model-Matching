@@ -102,6 +102,9 @@
 
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="LJ35" ModelName="Cessna CJ4 Citation Asobo WAT" />
 
+<!-- Payware Blackbox BN2P-->
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="BN2P" ModelName="Blackbox BN-2 Islander WAT" />
+<!-- Fallback -->
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="BN2P" ModelName="Beechcraft King Air 350i WAT" />
 
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="C172" ModelName="Cessna Skyhawk WAT" />
