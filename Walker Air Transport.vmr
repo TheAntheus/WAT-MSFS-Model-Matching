@@ -13,7 +13,7 @@
 
 <!-- Justflight BAE-146-->
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="B461" ModelName="Just Flight 146-100 WAT" />
-<ModelMatchRule CallsignPrefix="WAT" TypeCode="B462" ModelName="Just Flight 146-200 WAT//Just Flight 146-200 QC WAT" />
+<ModelMatchRule CallsignPrefix="WAT" TypeCode="B462" ModelName="Just Flight 146-200 WAT//Just Flight 146-200 QC WAT//Just Flight 146-200 QT WAT" />
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="B463" ModelName="Just Flight 146-300 WAT//Just Flight 146-300 QT WAT" />
 <!-- Fallback -->
 <ModelMatchRule CallsignPrefix="WAT" TypeCode="B461" ModelName="Airbus A320 Neo FlyByWire WAT" />
